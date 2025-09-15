@@ -1,1 +1,3 @@
-# SIH_2025_Prototype
+# Plant Disease Recognition
+
+Used Google Vision Model 
